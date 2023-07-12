@@ -1,3 +1,10 @@
 # Quiz
-A quiz genorator program written in java with vim useing the linux terminal
-Done to practive java vim and use of the linux terminal.
+A quiz genorator program written in java.
+Done to practice java, vim and use of the linux terminal. 
+In progress.
+
+## Requiremts
+Java SDK
+
+## Running instuctions
+Run quiz.java
