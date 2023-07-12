@@ -7,4 +7,4 @@ In progress.
 Java SDK
 
 ## Running instuctions
-Run quiz.java
+Run UserInterface.java
